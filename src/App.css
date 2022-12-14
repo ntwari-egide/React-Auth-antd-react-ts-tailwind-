@@ -31,3 +31,6 @@ button.ant-btn {
   width: 148px;
   box-shadow: none !important;
 }
+.ant-btn-default:not(:disabled):hover {
+  color: white !important;
+}
